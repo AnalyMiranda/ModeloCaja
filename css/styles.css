@@ -1,0 +1,20 @@
+div {
+	border: 10px solid purple;
+	background: #F227A8;
+	padding: 20px 500px;
+	margin: 10px;
+}
+div p {
+	text-align: center;
+	background-color: white;
+	border:2px dashed gray;
+}
+#prueba {
+	border: 10px solid blue;
+	background: #32D7B2;
+	padding: 100px 500px;
+	margin-top: 20px;
+	margin-right: 50px;
+	margin-bottom: 20px;
+	margin-left: 50px;
+}
